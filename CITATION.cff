@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "The prime triplet as a three-member two-centre CRT pattern: a non-monotone omega-distortion on the 6N skeleton (Part XV)"
+authors:
+  - family-names: Chen
+    given-names: Ruqing
+    affiliation: "GUT Geoservice Inc., Montreal, Quebec, Canada"
+    email: ruqing@hotmail.com
+version: "1.0.0"
+date-released: "2026-06-03"
+license: MIT
+url: "https://github.com/Ruqing1963/6N-prime-triplet"
+keywords:
+  - prime triplets
+  - prime constellations
+  - Chinese remainder theorem
+  - two-centre correlation
+  - conditional density
+  - experimental mathematics
+references:
+  - type: article
+    title: "Some problems of 'Partitio Numerorum'; III: On the expression of a number as a sum of primes"
+    authors:
+      - {family-names: Hardy, given-names: "G. H."}
+      - {family-names: Littlewood, given-names: "J. E."}
+    journal: "Acta Mathematica"
+    volume: 44
+    year: 1923
+    start: 1
+    end: 70
+  - type: software
+    title: "6N cousin and sexy prime pairs (Part IX)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20520492
+  - type: software
+    title: "6N two-centre CRT mechanism (Part X)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20525642
